@@ -3,7 +3,7 @@
 I am a passionate mobile developer from Türkiye 🇹🇷 <br>
 
 <b>About Me </b>
-- 👨🏻‍💻 I am currently learning <b>Swift</b>
+- 👨🏻‍💻 I am currently learning <b>SwiftUI</b>
   
 - ❤️ I love working with <b>flutter</b>
 - 📚 I code my own backends
